@@ -1,0 +1,6 @@
+
+#This script is for changing the shell type
+#to bash shell as the shell of choice
+
+
+sudo usermod --shell /usr/bin/bash {user_name}
